@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-void main (int)
+int main (void)
 {
 
 	puts("Hello There");
